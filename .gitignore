@@ -1,0 +1,16 @@
+./back-end/checkpoint/*
+!./back-end/checkpoint/.gitkeep
+./back-end/build
+./back-end/data/*
+!./back-end/data/.gitkeep
+./back-end/infer_img/*
+./back-end/labelled_image/*
+./back-end/out_images/*
+./back-end/segged_image/*
+./back-end/static/*
+!./back-end/static/.gitkeep
+./back-end/test/*
+./back-end/uploads/*
+!./back-end/uploads/.gitkeep
+
+
